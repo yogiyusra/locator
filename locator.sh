@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # Locator v1.0
 # Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
